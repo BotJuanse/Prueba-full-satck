@@ -1,0 +1,6 @@
+//Gracias por tenerme en cuenta//
+* En este proyecto encontraran la base de datos llamada:
+	prueba_tecnica
+* Tambien pueden usar el siguiente usuario para loguearse en el proyecto:
+	User: sebastian.penaloza.gutierrez@gmail.com
+	Password: Sebas123
